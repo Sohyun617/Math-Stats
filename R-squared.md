@@ -13,7 +13,7 @@
 
 
 
->   `SST`는 `Sum of Square Total`로 편차의 제곱합. 
+>   `SST`는 `Sum of Square Total`로 편차의 제곱합이다. 
 >
 > 식: SST=∑ni=1(yi−^yi+^yi−¯y)2, SST=∑i=1n(yi−yi^+yi^−y¯)2.  모든 차이를 제곱하여 더한 것이다. 실제값과 예측값, 평균값 사이에 발생한 차이이며, 이것이 SSE와 SSR이다. SST=SSE+SSR .
 
